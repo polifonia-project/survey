@@ -3,6 +3,8 @@ component-id: Survey
 name: "Polifonia Survey"
 description: "This survey documents the pilots a) according to their expectations and needs, b) their technical characteristics and c) their socio-pedagogical dimension."
 long-title: "Polifonia Survey"
+work-package: 
+- WP1 
 type: Report
 ---
 
