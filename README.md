@@ -1,3 +1,11 @@
+---
+component-id: Survey
+name: "Polifonia Survey"
+description: "This survey documents the pilots a) according to their expectations and needs, b) their technical characteristics and c) their socio-pedagogical dimension."
+long-title: "Polifonia Survey"
+type: Report
+---
+
 # Survey
 
 The present Survey is structured in three key areas: the first area, the Domain Specific part, facilitates each pilot to focus its needs, wishes, requests and strategies, providing a structured and articulated panorama on sources, methods and outcomes: here, each pilot is asked to identify and to define the characterization of the sources and to list the available digital corpora or datasets. In this respect, this part represents a place for epistemological reflection for the whole Polifonia framework.
