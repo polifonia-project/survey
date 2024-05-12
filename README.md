@@ -4,7 +4,18 @@ name: "Polifonia Survey"
 description: "This survey documents the pilots a) according to their expectations and needs, b) their technical characteristics and c) their socio-pedagogical dimension."
 long-title: "Polifonia Survey"
 work-package: 
-- WP1 
+- WP1
+pilot:
+- CHILD
+- ACCESS
+- MEETUPS
+- BELLS
+- MUSICBO
+- INTERLINK
+- ORGANS
+- TUNES
+- TONALITIES
+- FACETS
 type: Report
 ---
 
